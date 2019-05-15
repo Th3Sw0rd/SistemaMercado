@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{636E3E89-93B7-4E36-86DB-120E782CCBFD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>Sistema de Mercados</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Sistema de Mercados.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Sistema de Mercados.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Implements\UcProvincias.vb" />
+    <Compile Include="Interfaces\IProvinvcias.vb" />
+    <Compile Include="Objects\Almacen.vb" />
+    <Compile Include="Objects\Fruta.vb" />
+    <Compile Include="Objects\Mercado.vb" />
+    <Compile Include="Objects\Propietario.vb" />
+    <Compile Include="fBuscar.Designer.vb">
+      <DependentUpon>fBuscar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fBuscar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fIncio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fIncio.Designer.vb">
+      <DependentUpon>fIncio.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMercados.Designer.vb">
+      <DependentUpon>fMercados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fMercados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPuestos.Designer.vb">
+      <DependentUpon>fPuestos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fPuestos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPropietarios.Designer.vb">
+      <DependentUpon>fPropietarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fPropietarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAlmacenes.Designer.vb">
+      <DependentUpon>fAlmacenes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fAlmacenes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fFrutas.Designer.vb">
+      <DependentUpon>fFrutas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fFrutas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Objects\Provincia.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="fBuscar.resx">
+      <DependentUpon>fBuscar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fIncio.resx">
+      <DependentUpon>fIncio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMercados.resx">
+      <DependentUpon>fMercados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPuestos.resx">
+      <DependentUpon>fPuestos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPropietarios.resx">
+      <DependentUpon>fPropietarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fAlmacenes.resx">
+      <DependentUpon>fAlmacenes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fFrutas.resx">
+      <DependentUpon>fFrutas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frutas_hortaliza_verduras.jpg_501420591.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frutas-y-verduras.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,32 @@
+C:\Users\Alumno\Desktop\Sistema de Mercados\Sistema de Mercados\bin\Debug\Sistema de Mercados.exe
+C:\Users\Alumno\Desktop\Sistema de Mercados\Sistema de Mercados\bin\Debug\Sistema de Mercados.pdb
+C:\Users\Alumno\Desktop\Sistema de Mercados\Sistema de Mercados\bin\Debug\Sistema de Mercados.xml
+C:\Users\Alumno\Desktop\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\WindowsApplication1.fBuscar.resources
+C:\Users\Alumno\Desktop\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\WindowsApplication1.fIncio.resources
+C:\Users\Alumno\Desktop\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\WindowsApplication1.fMercados.resources
+C:\Users\Alumno\Desktop\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\WindowsApplication1.fPuestos.resources
+C:\Users\Alumno\Desktop\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\WindowsApplication1.fPropietarios.resources
+C:\Users\Alumno\Desktop\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\WindowsApplication1.fAlmacenes.resources
+C:\Users\Alumno\Desktop\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\WindowsApplication1.fFrutas.resources
+C:\Users\Alumno\Desktop\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Alumno\Desktop\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\Sistema de Mercados.vbproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\Sistema de Mercados.exe
+C:\Users\Alumno\Desktop\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\Sistema de Mercados.xml
+C:\Users\Alumno\Desktop\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\Sistema de Mercados.pdb
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\Sistema de Mercados.vbprojAssemblyReference.cache
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\WindowsApplication1.fBuscar.resources
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\WindowsApplication1.fIncio.resources
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\WindowsApplication1.fMercados.resources
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\WindowsApplication1.fPuestos.resources
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\WindowsApplication1.fPropietarios.resources
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\WindowsApplication1.fAlmacenes.resources
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\WindowsApplication1.fFrutas.resources
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\Sistema de Mercados.vbproj.GenerateResource.cache
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\Sistema de Mercados.vbproj.CoreCompileInputs.cache
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\Sistema de Mercados.exe
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\Sistema de Mercados.xml
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\obj\x86\Debug\Sistema de Mercados.pdb
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\bin\Debug\Sistema de Mercados.exe
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\bin\Debug\Sistema de Mercados.pdb
+C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\bin\Debug\Sistema de Mercados.xml
