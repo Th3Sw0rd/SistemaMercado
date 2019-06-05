@@ -30,3 +30,6 @@ C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\obj\x
 C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\bin\Debug\Sistema de Mercados.exe
 C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\bin\Debug\Sistema de Mercados.pdb
 C:\Users\TJuhasz\Desktop\Programas\Sistema de Mercados\Sistema de Mercados\bin\Debug\Sistema de Mercados.xml
+C:\Users\Alumno\Desktop\SistemaMercado\Sistema de Mercados\obj\x86\Debug\Sistema de Mercados.exe
+C:\Users\Alumno\Desktop\SistemaMercado\Sistema de Mercados\obj\x86\Debug\Sistema de Mercados.xml
+C:\Users\Alumno\Desktop\SistemaMercado\Sistema de Mercados\obj\x86\Debug\Sistema de Mercados.pdb
